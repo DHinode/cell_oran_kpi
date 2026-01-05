@@ -8,15 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/cell/5g-workspace/flexric/examples/ric/near_ric.c" "examples/ric/CMakeFiles/nearRT-RIC.dir/near_ric.c.o" "gcc" "examples/ric/CMakeFiles/nearRT-RIC.dir/near_ric.c.o.d"
+  "/home/student/cell_oran_kpi/5g-workspace/flexric/examples/ric/near_ric.c" "examples/ric/CMakeFiles/nearRT-RIC.dir/near_ric.c.o" "gcc" "examples/ric/CMakeFiles/nearRT-RIC.dir/near_ric.c.o.d"
   )
 
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
-  )
-
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/ric/CMakeFiles/near_ric.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

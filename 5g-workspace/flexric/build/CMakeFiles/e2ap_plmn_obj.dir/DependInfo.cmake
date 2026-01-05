@@ -8,15 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/cell/5g-workspace/flexric/src/lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.c" "CMakeFiles/e2ap_plmn_obj.dir/src/lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.c.o" "gcc" "CMakeFiles/e2ap_plmn_obj.dir/src/lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.c.o.d"
+  "/home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.c" "CMakeFiles/e2ap_plmn_obj.dir/src/lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.c.o" "gcc" "CMakeFiles/e2ap_plmn_obj.dir/src/lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.c.o.d"
   )
 
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
-  )
-
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

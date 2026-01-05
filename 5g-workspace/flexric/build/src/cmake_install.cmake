@@ -1,4 +1,4 @@
-# Install script for directory: /home/cell/5g-workspace/flexric/src
+# Install script for directory: /home/student/cell_oran_kpi/5g-workspace/flexric/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,31 +44,31 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/agent/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/agent/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/lib/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/lib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/ric/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/ric/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/sm/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/util/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/util/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/xApp/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/xApp/cmake_install.cmake")
 endif()
 

@@ -1,7 +1,7 @@
 src/lib/ep/CMakeFiles/e2ap_ep_obj.dir/sctp_msg.c.o: \
- /home/cell/5g-workspace/flexric/src/lib/ep/sctp_msg.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/ep/sctp_msg.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/lib/ep/sctp_msg.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/ep/sctp_msg.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -17,7 +17,7 @@ src/lib/ep/CMakeFiles/e2ap_ep_obj.dir/sctp_msg.c.o: \
  /usr/include/x86_64-linux-gnu/bits/time64.h \
  /usr/include/x86_64-linux-gnu/sys/socket.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/socket.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
@@ -59,11 +59,10 @@ src/lib/ep/CMakeFiles/e2ap_ep_obj.dir/sctp_msg.c.o: \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/netinet/sctp.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
- /usr/include/x86_64-linux-gnu/bits/wchar.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /usr/include/linux/types.h /usr/include/x86_64-linux-gnu/asm/types.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h /usr/include/linux/types.h \
+ /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/linux/sctp.h /usr/include/linux/socket.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
@@ -80,5 +79,5 @@ src/lib/ep/CMakeFiles/e2ap_ep_obj.dir/sctp_msg.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /home/cell/5g-workspace/flexric/src/util/byte_array.h
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/util/byte_array.h

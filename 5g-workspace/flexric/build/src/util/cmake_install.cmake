@@ -1,4 +1,4 @@
-# Install script for directory: /home/cell/5g-workspace/flexric/src/util
+# Install script for directory: /home/student/cell_oran_kpi/5g-workspace/flexric/src/util
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

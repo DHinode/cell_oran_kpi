@@ -1,8 +1,8 @@
 src/xApp/CMakeFiles/e42_xapp.dir/sync_ui.c.o: \
- /home/cell/5g-workspace/flexric/src/xApp/sync_ui.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/sync_ui.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/xApp/../util/alg_ds/ds/lock_guard/lock_guard.h \
- /home/cell/5g-workspace/flexric/src/xApp/../util/alg_ds/ds/lock_guard/../../alg/defer.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/../util/alg_ds/ds/lock_guard/lock_guard.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/../util/alg_ds/ds/lock_guard/../../alg/defer.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -12,8 +12,8 @@ src/xApp/CMakeFiles/e42_xapp.dir/sync_ui.c.o: \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
  /usr/include/x86_64-linux-gnu/bits/time64.h \
@@ -23,7 +23,6 @@ src/xApp/CMakeFiles/e42_xapp.dir/sync_ui.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
- /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h /usr/include/stdlib.h \
@@ -65,12 +64,11 @@ src/xApp/CMakeFiles/e42_xapp.dir/sync_ui.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
- /home/cell/5g-workspace/flexric/src/xApp/sync_ui.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/sync_ui.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/errno.h \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h

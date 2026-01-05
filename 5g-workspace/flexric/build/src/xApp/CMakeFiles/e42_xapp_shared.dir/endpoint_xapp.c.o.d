@@ -1,8 +1,8 @@
 src/xApp/CMakeFiles/e42_xapp_shared.dir/endpoint_xapp.c.o: \
- /home/cell/5g-workspace/flexric/src/xApp/endpoint_xapp.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/endpoint_xapp.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/xApp/endpoint_xapp.h \
- /home/cell/5g-workspace/flexric/src/lib/ep/e2ap_ep.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/endpoint_xapp.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/ep/e2ap_ep.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -18,7 +18,7 @@ src/xApp/CMakeFiles/e42_xapp_shared.dir/endpoint_xapp.c.o: \
  /usr/include/x86_64-linux-gnu/bits/time64.h \
  /usr/include/x86_64-linux-gnu/sys/socket.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/socket.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
@@ -60,11 +60,10 @@ src/xApp/CMakeFiles/e42_xapp_shared.dir/endpoint_xapp.c.o: \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/netinet/sctp.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
- /usr/include/x86_64-linux-gnu/bits/wchar.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /usr/include/linux/types.h /usr/include/x86_64-linux-gnu/asm/types.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h /usr/include/linux/types.h \
+ /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/linux/sctp.h /usr/include/linux/socket.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
@@ -81,15 +80,14 @@ src/xApp/CMakeFiles/e42_xapp_shared.dir/endpoint_xapp.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /home/cell/5g-workspace/flexric/src/util/byte_array.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /home/cell/5g-workspace/flexric/src/lib/ep/sctp_msg.h \
- /usr/include/stdio.h /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/util/byte_array.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/ep/sctp_msg.h \
+ /usr/include/stdio.h /usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
- /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h

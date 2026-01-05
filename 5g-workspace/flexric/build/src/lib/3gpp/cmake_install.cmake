@@ -1,4 +1,4 @@
-# Install script for directory: /home/cell/5g-workspace/flexric/src/lib/3gpp
+# Install script for directory: /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/3gpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,16 +44,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/lib/3gpp/dec/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/lib/3gpp/dec/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/lib/3gpp/enc/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/lib/3gpp/enc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/lib/3gpp/ie/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/lib/3gpp/ie/cmake_install.cmake")
 endif()
 

@@ -1,8 +1,8 @@
 src/ric/CMakeFiles/near_ric_test.dir/endpoint_ric.c.o: \
- /home/cell/5g-workspace/flexric/src/ric/endpoint_ric.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/endpoint_ric.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/ric/endpoint_ric.h \
- /home/cell/5g-workspace/flexric/src/lib/ep/e2ap_ep.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/endpoint_ric.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/ep/e2ap_ep.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -18,7 +18,7 @@ src/ric/CMakeFiles/near_ric_test.dir/endpoint_ric.c.o: \
  /usr/include/x86_64-linux-gnu/bits/time64.h \
  /usr/include/x86_64-linux-gnu/sys/socket.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/socket.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
@@ -60,11 +60,10 @@ src/ric/CMakeFiles/near_ric_test.dir/endpoint_ric.c.o: \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/netinet/sctp.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
- /usr/include/x86_64-linux-gnu/bits/wchar.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /usr/include/linux/types.h /usr/include/x86_64-linux-gnu/asm/types.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h /usr/include/linux/types.h \
+ /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/linux/sctp.h /usr/include/linux/socket.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
@@ -81,26 +80,26 @@ src/ric/CMakeFiles/near_ric_test.dir/endpoint_ric.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /home/cell/5g-workspace/flexric/src/util/byte_array.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /home/cell/5g-workspace/flexric/src/lib/ep/sctp_msg.h \
- /home/cell/5g-workspace/flexric/src/ric/map_e2_node_sockaddr.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/e2ap_global_node_id_wrapper.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_global_node_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../../util/ngran_types.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/e2ap_gnb_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/assoc_generic.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/assoc_rb_tree.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/assoc_ht_open_address.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/assoc_reg.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_generic.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_arr.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_list.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_deque.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_ring.h \
- /home/cell/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/bimap.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/ep/sctp_msg.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/util/byte_array.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/ep/sctp_msg.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/map_e2_node_sockaddr.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/e2ap_global_node_id_wrapper.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_global_node_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../../util/ngran_types.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/e2ap_gnb_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/assoc_generic.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/assoc_rb_tree.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/assoc_ht_open_address.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/assoc_reg.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_generic.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_arr.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_list.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_deque.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/../../ds/seq_container/seq_ring.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../util/alg_ds/ds/assoc_container/bimap.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/ep/sctp_msg.h \
  /usr/include/pthread.h /usr/include/sched.h \
  /usr/include/x86_64-linux-gnu/bits/sched.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
@@ -112,12 +111,11 @@ src/ric/CMakeFiles/near_ric_test.dir/endpoint_ric.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
- /usr/include/stdio.h /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /usr/include/stdio.h /usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
- /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h

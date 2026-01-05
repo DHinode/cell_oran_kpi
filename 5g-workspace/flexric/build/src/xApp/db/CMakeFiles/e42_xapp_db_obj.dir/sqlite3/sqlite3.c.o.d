@@ -1,7 +1,7 @@
 src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3.c.o: \
- /home/cell/5g-workspace/flexric/src/xApp/db/sqlite3/sqlite3.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/db/sqlite3/sqlite3.c \
  /usr/include/stdc-predef.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -10,7 +10,7 @@ src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3.c.o: \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
  /usr/include/x86_64-linux-gnu/bits/time64.h \
@@ -114,7 +114,6 @@ src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3.c.o: \
  /usr/include/x86_64-linux-gnu/bits/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman-map-flags-generic.h \
  /usr/include/x86_64-linux-gnu/bits/mman-linux.h \
- /usr/include/x86_64-linux-gnu/bits/mman-shared.h \
- /usr/include/x86_64-linux-gnu/bits/mman_ext.h /usr/include/dlfcn.h \
+ /usr/include/x86_64-linux-gnu/bits/mman-shared.h /usr/include/dlfcn.h \
  /usr/include/x86_64-linux-gnu/bits/dlfcn.h \
  /usr/include/x86_64-linux-gnu/bits/dl_find_object.h

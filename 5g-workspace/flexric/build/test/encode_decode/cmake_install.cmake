@@ -1,4 +1,4 @@
-# Install script for directory: /home/cell/5g-workspace/flexric/test/encode_decode
+# Install script for directory: /home/student/cell_oran_kpi/5g-workspace/flexric/test/encode_decode
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,11 +44,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/test/encode_decode/e2ap/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/test/encode_decode/e2ap/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/test/encode_decode/sm/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/test/encode_decode/sm/cmake_install.cmake")
 endif()
 

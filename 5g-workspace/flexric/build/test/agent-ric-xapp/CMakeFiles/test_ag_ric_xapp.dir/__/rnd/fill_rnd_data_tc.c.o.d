@@ -1,8 +1,8 @@
 test/agent-ric-xapp/CMakeFiles/test_ag_ric_xapp.dir/__/rnd/fill_rnd_data_tc.c.o: \
- /home/cell/5g-workspace/flexric/test/rnd/fill_rnd_data_tc.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/test/rnd/fill_rnd_data_tc.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/test/rnd/fill_rnd_data_tc.h \
- /home/cell/5g-workspace/flexric/test/rnd/../../src/sm/tc_sm/ie/tc_data_ie.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/test/rnd/fill_rnd_data_tc.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/test/rnd/../../src/sm/tc_sm/ie/tc_data_ie.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -11,9 +11,9 @@ test/agent-ric-xapp/CMakeFiles/test_ag_ric_xapp.dir/__/rnd/fill_rnd_data_tc.c.o:
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
@@ -21,8 +21,7 @@ test/agent-ric-xapp/CMakeFiles/test_ag_ric_xapp.dir/__/rnd/fill_rnd_data_tc.c.o:
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/cell/5g-workspace/flexric/test/rnd/../../src/util/time_now_us.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/test/rnd/../../src/util/time_now_us.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \

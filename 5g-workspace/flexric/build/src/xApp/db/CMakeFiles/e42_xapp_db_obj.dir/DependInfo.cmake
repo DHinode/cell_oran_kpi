@@ -8,18 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/cell/5g-workspace/flexric/src/util/time_now_us.c" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/__/__/util/time_now_us.c.o" "gcc" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/__/__/util/time_now_us.c.o.d"
-  "/home/cell/5g-workspace/flexric/src/xApp/db/db.c" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/db.c.o" "gcc" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/db.c.o.d"
-  "/home/cell/5g-workspace/flexric/src/xApp/db/sqlite3/sqlite3.c" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3.c.o" "gcc" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3.c.o.d"
-  "/home/cell/5g-workspace/flexric/src/xApp/db/sqlite3/sqlite3_wrapper.c" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3_wrapper.c.o" "gcc" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3_wrapper.c.o.d"
+  "/home/student/cell_oran_kpi/5g-workspace/flexric/src/util/time_now_us.c" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/__/__/util/time_now_us.c.o" "gcc" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/__/__/util/time_now_us.c.o.d"
+  "/home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/db/db.c" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/db.c.o" "gcc" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/db.c.o.d"
+  "/home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/db/sqlite3/sqlite3.c" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3.c.o" "gcc" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3.c.o.d"
+  "/home/student/cell_oran_kpi/5g-workspace/flexric/src/xApp/db/sqlite3/sqlite3_wrapper.c" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3_wrapper.c.o" "gcc" "src/xApp/db/CMakeFiles/e42_xapp_db_obj.dir/sqlite3/sqlite3_wrapper.c.o.d"
   )
 
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
-  )
-
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

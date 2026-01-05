@@ -1,8 +1,8 @@
 src/sm/rc_sm/ie/ir/CMakeFiles/e2sm_rc_ir_obj.dir/rrc_state_lst.c.o: \
- /home/cell/5g-workspace/flexric/src/sm/rc_sm/ie/ir/rrc_state_lst.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/sm/rc_sm/ie/ir/rrc_state_lst.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/sm/rc_sm/ie/ir/rrc_state_lst.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h /usr/include/stdlib.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/sm/rc_sm/ie/ir/rrc_state_lst.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -11,7 +11,7 @@ src/sm/rc_sm/ie/ir/CMakeFiles/e2sm_rc_ir_obj.dir/rrc_state_lst.c.o: \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
@@ -42,6 +42,6 @@ src/sm/rc_sm/ie/ir/CMakeFiles/e2sm_rc_ir_obj.dir/rrc_state_lst.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /home/cell/5g-workspace/flexric/src/sm/rc_sm/ie/ir/rrc_state.h \
- /home/cell/5g-workspace/flexric/src/sm/rc_sm/ie/ir/logical_or.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/sm/rc_sm/ie/ir/rrc_state.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/sm/rc_sm/ie/ir/logical_or.h \
  /usr/include/assert.h

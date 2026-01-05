@@ -1,4 +1,4 @@
-# Install script for directory: /home/cell/5g-workspace/flexric
+# Install script for directory: /home/student/cell_oran_kpi/5g-workspace/flexric
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,27 +44,27 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/src/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/examples/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/examples/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/test/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/test/cmake_install.cmake")
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libmac_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libmac_sm.so")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libmac_sm.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/cell/5g-workspace/flexric/build/src/sm/mac_sm/libmac_sm.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/mac_sm/libmac_sm.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libmac_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libmac_sm.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -73,21 +73,17 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/cell/5g-workspace/flexric/build/src/sm/mac_sm/CMakeFiles/mac_sm.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librlc_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librlc_sm.so")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librlc_sm.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/cell/5g-workspace/flexric/build/src/sm/rlc_sm/librlc_sm.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/rlc_sm/librlc_sm.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librlc_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librlc_sm.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -96,21 +92,17 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/cell/5g-workspace/flexric/build/src/sm/rlc_sm/CMakeFiles/rlc_sm.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libpdcp_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libpdcp_sm.so")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libpdcp_sm.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/cell/5g-workspace/flexric/build/src/sm/pdcp_sm/libpdcp_sm.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/pdcp_sm/libpdcp_sm.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libpdcp_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libpdcp_sm.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -119,21 +111,17 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/cell/5g-workspace/flexric/build/src/sm/pdcp_sm/CMakeFiles/pdcp_sm.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libslice_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libslice_sm.so")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libslice_sm.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/cell/5g-workspace/flexric/build/src/sm/slice_sm/libslice_sm.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/slice_sm/libslice_sm.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libslice_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libslice_sm.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -142,21 +130,17 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/cell/5g-workspace/flexric/build/src/sm/slice_sm/CMakeFiles/slice_sm.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libtc_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libtc_sm.so")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libtc_sm.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/cell/5g-workspace/flexric/build/src/sm/tc_sm/libtc_sm.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/tc_sm/libtc_sm.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libtc_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libtc_sm.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -165,21 +149,17 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/cell/5g-workspace/flexric/build/src/sm/tc_sm/CMakeFiles/tc_sm.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libgtp_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libgtp_sm.so")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libgtp_sm.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/cell/5g-workspace/flexric/build/src/sm/gtp_sm/libgtp_sm.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/gtp_sm/libgtp_sm.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libgtp_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libgtp_sm.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -188,21 +168,17 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/cell/5g-workspace/flexric/build/src/sm/gtp_sm/CMakeFiles/gtp_sm.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libkpm_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libkpm_sm.so")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libkpm_sm.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/cell/5g-workspace/flexric/build/src/sm/kpm_sm/kpm_sm_v02.03/libkpm_sm.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/kpm_sm/kpm_sm_v02.03/libkpm_sm.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libkpm_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/libkpm_sm.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -211,21 +187,17 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/cell/5g-workspace/flexric/build/src/sm/kpm_sm/kpm_sm_v02.03/CMakeFiles/kpm_sm.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librc_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librc_sm.so")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librc_sm.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/cell/5g-workspace/flexric/build/src/sm/rc_sm/librc_sm.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/flexric" TYPE SHARED_LIBRARY FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/build/src/sm/rc_sm/librc_sm.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librc_sm.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/flexric/librc_sm.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -234,15 +206,11 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/cell/5g-workspace/flexric/build/src/sm/rc_sm/CMakeFiles/rc_sm.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/etc/flexric" TYPE FILE FILES "/home/cell/5g-workspace/flexric/flexric.conf")
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/etc/flexric" TYPE FILE FILES "/home/student/cell_oran_kpi/5g-workspace/flexric/flexric.conf")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -253,5 +221,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/cell/5g-workspace/flexric/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/student/cell_oran_kpi/5g-workspace/flexric/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

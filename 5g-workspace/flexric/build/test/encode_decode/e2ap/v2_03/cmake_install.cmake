@@ -1,4 +1,4 @@
-# Install script for directory: /home/cell/5g-workspace/flexric/test/encode_decode/e2ap/v2_03
+# Install script for directory: /home/student/cell_oran_kpi/5g-workspace/flexric/test/encode_decode/e2ap/v2_03
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,8 +1,8 @@
 src/lib/e2ap/v2_03/e2ap_types/CMakeFiles/e2ap_types_obj.dir/common/transport_layer_info.c.o: \
- /home/cell/5g-workspace/flexric/src/lib/e2ap/v2_03/e2ap_types/common/transport_layer_info.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/e2ap/v2_03/e2ap_types/common/transport_layer_info.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/lib/e2ap/v2_03/e2ap_types/common/transport_layer_info.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/lib/e2ap/v2_03/e2ap_types/common/transport_layer_info.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -17,10 +17,9 @@ src/lib/e2ap/v2_03/e2ap_types/CMakeFiles/e2ap_types_obj.dir/common/transport_lay
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/cell/5g-workspace/flexric/src/util/byte_array.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h /usr/include/string.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/util/byte_array.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h

@@ -1,8 +1,8 @@
 src/sm/rc_sm/ie/ir/CMakeFiles/e2sm_rc_ir_obj.dir/ran_parameter_test_condition.c.o: \
- /home/cell/5g-workspace/flexric/src/sm/rc_sm/ie/ir/ran_parameter_test_condition.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/sm/rc_sm/ie/ir/ran_parameter_test_condition.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/sm/rc_sm/ie/ir/ran_parameter_test_condition.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h /usr/include/assert.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/sm/rc_sm/ie/ir/ran_parameter_test_condition.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h /usr/include/assert.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/timesize.h \
@@ -11,7 +11,7 @@ src/sm/rc_sm/ie/ir/CMakeFiles/e2sm_rc_ir_obj.dir/ran_parameter_test_condition.c.
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \

@@ -1,13 +1,13 @@
 src/ric/CMakeFiles/near_ric.dir/e2_node.c.o: \
- /home/cell/5g-workspace/flexric/src/ric/e2_node.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/e2_node.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/ric/e2_node.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/e2ap_global_node_id_wrapper.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_global_node_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/e2_node.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/e2ap_global_node_id_wrapper.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_global_node_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -22,32 +22,31 @@ src/ric/CMakeFiles/near_ric.dir/e2_node.c.o: \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../../util/ngran_types.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/e2ap_gnb_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/e2_setup_response_wrapper.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/e2_setup_response.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_global_ric_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_node_comp_config_add_ack.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_node_comp_interface_type.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_node_comp_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_enb_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/plmn_identity.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_ng_ran_node_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_gnb_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/e2ap_gnb_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_ng_enb_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_en_gnb_id.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/s1_setup_response.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/../../../util/byte_array.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../../util/ngran_types.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/e2ap_gnb_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/e2_setup_response_wrapper.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/e2_setup_response.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_global_ric_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_node_comp_config_add_ack.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_node_comp_interface_type.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_node_comp_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_enb_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/plmn_identity.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_ng_ran_node_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_gnb_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/e2ap_gnb_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_ng_enb_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/global_en_gnb_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/s1_setup_response.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/../../../util/byte_array.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../../util/byte_array.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_node_comp_conf_add_ack.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_cause.h \
- /home/cell/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_rejected_ran_function.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/../../../../../util/byte_array.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_node_comp_conf_add_ack.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_cause.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/../lib/e2ap/v2_03/e2ap_types/common/e2ap_rejected_ran_function.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \

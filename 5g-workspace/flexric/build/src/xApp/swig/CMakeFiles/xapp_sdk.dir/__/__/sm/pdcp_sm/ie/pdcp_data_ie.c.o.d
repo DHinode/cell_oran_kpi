@@ -1,10 +1,10 @@
 src/xApp/swig/CMakeFiles/xapp_sdk.dir/__/__/sm/pdcp_sm/ie/pdcp_data_ie.c.o: \
- /home/cell/5g-workspace/flexric/src/sm/pdcp_sm/ie/pdcp_data_ie.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/sm/pdcp_sm/ie/pdcp_data_ie.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/sm/pdcp_sm/ie/pdcp_data_ie.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/sm/pdcp_sm/ie/pdcp_data_ie.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -18,8 +18,7 @@ src/xApp/swig/CMakeFiles/xapp_sdk.dir/__/__/sm/pdcp_sm/ie/pdcp_data_ie.c.o: \
  /usr/include/x86_64-linux-gnu/bits/time64.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h /usr/include/assert.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/assert.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \

@@ -1,4 +1,4 @@
-# Install script for directory: /home/cell/5g-workspace/flexric/examples/emulator
+# Install script for directory: /home/student/cell_oran_kpi/5g-workspace/flexric/examples/emulator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,6 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/cell/5g-workspace/flexric/build/examples/emulator/agent/cmake_install.cmake")
+  include("/home/student/cell_oran_kpi/5g-workspace/flexric/build/examples/emulator/agent/cmake_install.cmake")
 endif()
 

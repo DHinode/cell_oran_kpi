@@ -1,12 +1,12 @@
 src/ric/iApp/CMakeFiles/e42_iapp.dir/e2_node_ric_id.c.o: \
- /home/cell/5g-workspace/flexric/src/ric/iApp/e2_node_ric_id.c \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/e2_node_ric_id.c \
  /usr/include/stdc-predef.h \
- /home/cell/5g-workspace/flexric/src/ric/iApp/e2_node_ric_id.h \
- /home/cell/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/e2ap_global_node_id_wrapper.h \
- /home/cell/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/e2ap_global_node_id.h \
- /home/cell/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/e2_node_ric_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/e2ap_global_node_id_wrapper.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/e2ap_global_node_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/e2ap_plmn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -21,13 +21,12 @@ src/ric/iApp/CMakeFiles/e42_iapp.dir/e2_node_ric_id.c.o: \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/cell/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/../../../../../util/ngran_types.h \
- /home/cell/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/e2ap_gnb_id.h \
- /home/cell/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/ric_gen_id_wrapper.h \
- /home/cell/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/ric_gen_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/../../../../../util/ngran_types.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/../../../../3gpp/ie/e2ap_gnb_id.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/ric_gen_id_wrapper.h \
+ /home/student/cell_oran_kpi/5g-workspace/flexric/src/ric/iApp/../../lib/e2ap/v2_03/e2ap_types/common/ric_gen_id.h \
  /usr/include/assert.h /usr/include/stdlib.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
