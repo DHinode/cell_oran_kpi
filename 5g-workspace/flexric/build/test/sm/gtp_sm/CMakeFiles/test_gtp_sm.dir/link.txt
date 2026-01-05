@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/test_gtp_sm.dir/main.c.o CMakeFiles/test_gtp_sm.dir/__/__/rnd/fill_rnd_data_gtp.c.o CMakeFiles/test_gtp_sm.dir/__/__/__/src/util/time_now_us.c.o -o test_gtp_sm  ../../../src/sm/gtp_sm/libgtp_sm_static.a -pthread 

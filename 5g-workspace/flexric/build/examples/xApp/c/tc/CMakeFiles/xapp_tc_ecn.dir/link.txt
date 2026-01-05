@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/xapp_tc_ecn.dir/xapp_tc_ecn.c.o CMakeFiles/xapp_tc_ecn.dir/__/__/__/__/src/util/alg_ds/alg/defer.c.o CMakeFiles/xapp_tc_ecn.dir/__/__/__/__/src/util/time_now_us.c.o -o xapp_tc_ecn  ../../../../src/xApp/libe42_xapp.a -pthread -lsctp -ldl 

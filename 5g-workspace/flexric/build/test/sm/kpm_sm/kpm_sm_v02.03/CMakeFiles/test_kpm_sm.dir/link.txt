@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/test_kpm_sm.dir/main.c.o CMakeFiles/test_kpm_sm.dir/__/__/__/rnd/fill_rnd_data_kpm.c.o CMakeFiles/test_kpm_sm.dir/__/__/__/__/src/util/time_now_us.c.o CMakeFiles/test_kpm_sm.dir/__/__/__/__/src/util/alg_ds/alg/defer.c.o -o test_kpm_sm  ../../../../src/sm/kpm_sm/kpm_sm_v02.03/libkpm_sm_static.a -pthread -lm 

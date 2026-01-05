@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/test_rlc_sm.dir/main.c.o CMakeFiles/test_rlc_sm.dir/__/__/rnd/fill_rnd_data_rlc.c.o CMakeFiles/test_rlc_sm.dir/__/__/__/src/util/time_now_us.c.o -o test_rlc_sm  ../../../src/sm/rlc_sm/librlc_sm_static.a -pthread 

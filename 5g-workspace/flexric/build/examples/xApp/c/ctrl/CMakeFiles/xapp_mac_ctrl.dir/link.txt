@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/xapp_mac_ctrl.dir/mac_ctrl.c.o CMakeFiles/xapp_mac_ctrl.dir/__/__/__/__/src/util/alg_ds/alg/defer.c.o -o xapp_mac_ctrl  ../../../../src/xApp/libe42_xapp.a -pthread -lsctp -ldl 

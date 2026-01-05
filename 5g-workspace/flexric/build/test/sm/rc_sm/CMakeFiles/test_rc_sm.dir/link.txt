@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/test_rc_sm.dir/main.c.o CMakeFiles/test_rc_sm.dir/__/__/rnd/fill_rnd_data_rc.c.o CMakeFiles/test_rc_sm.dir/__/__/__/src/util/time_now_us.c.o CMakeFiles/test_rc_sm.dir/__/__/__/src/util/alg_ds/alg/defer.c.o -o test_rc_sm  ../../../src/sm/rc_sm/librc_sm_static.a -pthread -lm 

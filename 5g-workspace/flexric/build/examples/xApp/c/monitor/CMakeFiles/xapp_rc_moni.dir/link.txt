@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/xapp_rc_moni.dir/xapp_rc_moni.c.o CMakeFiles/xapp_rc_moni.dir/__/__/__/__/src/util/alg_ds/alg/defer.c.o -o xapp_rc_moni  ../../../../src/xApp/libe42_xapp.a -pthread -lsctp -ldl 

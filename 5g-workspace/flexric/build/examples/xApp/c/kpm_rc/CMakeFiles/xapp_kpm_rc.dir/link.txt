@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/xapp_kpm_rc.dir/xapp_kpm_rc.c.o CMakeFiles/xapp_kpm_rc.dir/__/__/__/__/src/util/alg_ds/alg/defer.c.o -o xapp_kpm_rc  ../../../../src/xApp/libe42_xapp.a -pthread -lsctp -ldl 
