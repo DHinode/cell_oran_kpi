@@ -109,6 +109,8 @@ void log_real_value(byte_array_t name, meas_record_lst_t meas_record)
     printf("DRB.UEThpDl = %.2f [kbps]\n", meas_record.real_val);
   } else if (cmp_str_ba("DRB.UEThpUl", name) == 0) {
     printf("DRB.UEThpUl = %.2f [kbps]\n", meas_record.real_val);
+  } else if (cmp_str_ba("gNB_CPU_Load", name) == 0){
+    printf("gNB CPU Load = %.2f %%\n", meas_record.real_val);
   } else {
     printf("Measurement Name not yet supported\n");
   }

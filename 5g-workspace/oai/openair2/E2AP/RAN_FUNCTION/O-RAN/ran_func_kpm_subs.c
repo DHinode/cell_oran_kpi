@@ -23,6 +23,9 @@
 
 #include <search.h>
 
+#include <sys/time.h>
+#include <sys/resource.h>
+
 /* measurements that need to store values from previous reporting period have a limitation
    when it comes to multiple subscriptions to the same UEs; ric_req_id is unique per subscription */
 typedef struct uldlcounter {
@@ -191,7 +194,55 @@ static meas_record_lst_t fill_RRU_PrbTotUl(__attribute__((unused))uint32_t gran_
 }
 #endif
 
+// Our custom metric starts here :
+static struct rusage last_usage;
+static struct timeval last_time;
+static int first_run = 1;
+
+static meas_record_lst_t fill_CPU_Metric(__attribute__((unused))uint32_t gran_period_ms, __attribute__((unused))cudu_ue_info_pair_t ue_info, __attribute__((unused))const size_t ue_idx)
+{
+  meas_record_lst_t meas_record = {0};
+  meas_record.value = REAL_MEAS_VALUE;
+
+  struct rusage current_usage;
+  struct timeval current_time;
+
+  getrusage(RUSAGE_SELF, &current_usage);
+  gettimeofday(&current_time, NULL);
+
+  if (first_run) {
+    last_usage = current_usage;
+    last_time = current_time;
+    first_run = 0;
+    meas_record.real_val = 0.0;
+    return meas_record;
+  }
+
+  double user_delta = (double)(current_usage.ru_utime.tv_sec - last_usage.ru_utime.tv_sec) +
+                      (double)(current_usage.ru_utime.tv_usec - last_usage.ru_utime.tv_usec) / 1000000.0;
+
+  double sys_delta  = (double)(current_usage.ru_stime.tv_sec - last_usage.ru_stime.tv_sec) +
+                      (double)(current_usage.ru_stime.tv_usec - last_usage.ru_stime.tv_usec) / 1000000.0;
+
+  double time_delta = (double)(current_time.tv_sec - last_time.tv_sec) +
+                      (double)(current_time.tv_usec - last_time.tv_usec) / 1000000.0;
+
+  if (time_delta > 0) {
+    meas_record.real_val = ((user_delta + sys_delta) / time_delta) * 100.0;
+  } else {
+    meas_record.real_val = 0.0;
+  }
+
+  last_usage = current_usage;
+  last_time = current_time;
+
+  return meas_record;
+}
+
+//:)
+
 static kv_measure_t lst_measure[] = {
+  {.key = "gNB_CPU_Load", .value = fill_CPU_Metric }, // registration of our metric
   {.key = "DRB.PdcpSduVolumeDL", .value = fill_DRB_PdcpSduVolumeDL }, 
   {.key = "DRB.PdcpSduVolumeUL", .value = fill_DRB_PdcpSduVolumeUL },
 #if defined (NGRAN_GNB_DU)

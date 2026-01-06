@@ -436,6 +436,7 @@ static const char* kpm_meas_gnb[] = {
   "DRB.UEThpUl",
   "RRU.PrbTotDl",
   "RRU.PrbTotUl",
+  "gNB_CPU_Load", // our metric name for E2 Agent to advertises
   NULL,
 };
 
